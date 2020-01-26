@@ -1,0 +1,7 @@
+{
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.pythonPath": "/home/linuxer/anaconda3/bin/python",
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django"
+    ]
+}
