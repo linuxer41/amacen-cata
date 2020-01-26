@@ -10,7 +10,7 @@ const Header = () => (
       <a style={linkStyle}>Principal</a>
     </Link>
     <Link href="/about">
-      <a style={linkStyle}>Sobre nosotros</a>
+      <a style={linkStyle}>About</a>
     </Link>
     <style jsx>
       {`
